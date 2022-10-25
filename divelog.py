@@ -1,4 +1,4 @@
-#!/Library/Frameworks/Python.framework/Versions/3.8/bin/python3 -u
+#!/usr/local/bin/python -u
 
 import sys
 import os
