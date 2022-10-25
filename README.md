@@ -2,7 +2,7 @@
 
 It's a Python script which generates a set of Petrel screenshots based on the dive log info.
 
-Use ./divelog.py <Path to ShearwaterDescktop DB file> <Dive Log Number>
+Use ./divelog.py <Path_To_Shearwater_Desktop_DB_file> <Dive_Log_Number>
 
 Images are created in ./output directory in .PNG format 
 
