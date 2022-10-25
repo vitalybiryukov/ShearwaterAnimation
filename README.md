@@ -1,6 +1,6 @@
 # Shearwater Dive Log Animation
 
-It's a Python script which generates a set of Petrel screenshots based on the dive log info.
+It's a Python script which generates a set of Petrel CC mode screenshots based on the dive log info.
 
 Use ./divelog.py <Path_To_Shearwater_Desktop_DB_file> <Dive_Log_Number>
 
